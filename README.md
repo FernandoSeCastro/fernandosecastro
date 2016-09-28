@@ -1,2 +1,0 @@
-# SitePessoal
-Em desenvolvimento
