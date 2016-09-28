@@ -13,9 +13,9 @@ class GrupoController{
     //chamando o index principal
     public function Index()
     {
-        require_once 'View/header.php';
-        require_once 'View/grupo/grupo.php';
-        require_once 'View/footer.php';     
+        require_once 'view/header.php';
+        require_once 'view/grupo/grupo.php';
+        require_once 'view/footer.php';     
     }
     
     public function Selecionar()
@@ -25,9 +25,9 @@ class GrupoController{
         {
             $gru = $this->model->Selecionar($_REQUEST['grupo']);
         }
-        require_once 'View/header.php';
-        require_once 'View/grupo/grupo-editar.php';
-        require_once 'View/footer.php';
+        require_once 'view/header.php';
+        require_once 'view/grupo/grupo-editar.php';
+        require_once 'view/footer.php';
     }
     public function Novo()
     {
