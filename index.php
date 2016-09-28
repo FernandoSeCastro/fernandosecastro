@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-	<title>Ronie Meque</title>
+	<title>Fernando Desenvolvedor WEB</title>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -27,6 +27,7 @@
 	                </li>
 	                <li><a href="#contact" class="nava">Contato</a>
 	                </li>
+	                <li><a href="http://p.pw/baj2Bj">Link para contrubir.</a></li>
 	            </ul>
 	        </div>
 	    </div>
