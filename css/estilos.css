@@ -29,7 +29,7 @@ body{font-family: 'Open sans', sans-serif; padding-top: 50px; padding-bottom: 5p
     font-size: 80px;
     padding-top: 100px;
     font-weight: 600; 
-    border-bottom: 5px solid black;
+    border: 5px solid black;
 }
 .header .container h2{
     color: #fff;
