@@ -27,7 +27,7 @@
 	                </li>
 	                <li><a href="#contact" class="nava">Contato</a>
 	                </li>
-	                <li><a href="http://p.pw/baj2Bj">Link para contrubir.</a></li>
+	                <li><a href="http://p.pw/baj2BF"  target="_blank" class="nava">Link para contrubir.</a></li>
 	            </ul>
 	        </div>
 	    </div>
@@ -73,9 +73,9 @@
 			<div class="footercontact">
 				<span>Fernando Sé Castro</span>
 				<ul>
-					<li><a href="https://www.facebook.com/FernandoSeCastro"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="https://github.com/fernandosecastro/"><i class="fa fa-github"></i></a></li>
-					<li><a href="https://www.linkedin.com/in/fernando-sé-castro-92bb09b8"><i class="fa fa-linkedin"></i></a></li>
+					<li><a href="https://www.facebook.com/FernandoSeCastro"  target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://github.com/fernandosecastro/"  target="_blank"><i class="fa fa-github"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/fernando-sé-castro-92bb09b8"  target="_blank"><i class="fa fa-linkedin"></i></a></li>
 				</ul>
 			</div>
 		</div>
