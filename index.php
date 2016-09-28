@@ -2,7 +2,7 @@
 
 require_once 'model/database.php';
 
-$controller = 'cliente';
+$controller = 'home';
 
 if(!isset($_REQUEST['c']))
 {
