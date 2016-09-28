@@ -13,12 +13,11 @@
   Bootstrap; Jquery; Waypoints; Smooth Scroll function by css-tricks.com;
 
 	-->
-	<title>Fernando Se Castro</title>
+	<title>Ronie Meque</title>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <meta name="theme-color" content="#000000">
-
  	<meta name="msapplication-navbutton-color" content="#000000">
 
 	<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
@@ -40,8 +39,6 @@
 	                </li>
 	                <li><a href="#contact" class="nava">Contato</a>
 	                </li>
-	                <li> <a href="http://p.pw/baj2Bj" target="_blank" class="nava">Link</a>
-	                </li>
 	            </ul>
 	        </div>
 	    </div>
@@ -50,7 +47,7 @@
 
 	<div class="header" id="header">
 		<div class="container">
-			<h1 class="center-block">Fernando Se Castro</h1>
+			<h1 class="center-block">Ronie Meque</h1>
 			<h2 class="center-block" id="wp1">Sou desenvolvedor e apaixonado por tecnologia. Saiba mais <a href="#about">sobre</a> mim.</h2>
 		</div>
 	</div>
@@ -103,6 +100,13 @@
 			Topo
 		</a>
 	</div>
+
+	<div style="position:fixed; bottom:100px;left:20px;">
+		<h3 style= " color:red; background:#fff;border: solid 2px red; font-size:12px;" id="debugger">00</h3>
+		<button class="btn btn-danger" id="toggleinfoon">Informações</button>
+	</div>
+	
+
 	<div class="sobresite" id="sobresite">
 		<div class="container">
 			<p>
