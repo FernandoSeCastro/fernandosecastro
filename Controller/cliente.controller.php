@@ -14,9 +14,9 @@ class ClienteController{
 	//chamando o index principal
 	public function Index()
 	{
-		require_once 'View/header.php';
-		require_once 'View/cliente/cliente.php';
-		require_once 'View/footer.php';		
+		require_once 'view/header.php';
+		require_once 'view/cliente/cliente.php';
+		require_once 'view/footer.php';		
 	}
 	
 	public function Selecionar()
@@ -26,9 +26,9 @@ class ClienteController{
 		{
 			$cli = $this->model->Selecionar($_REQUEST['cliente']);
 		}
-		require_once 'View/header.php';
-		require_once 'View/cliente/cliente-editar.php';
-		require_once 'View/footer.php';
+		require_once 'view/header.php';
+		require_once 'view/cliente/cliente-editar.php';
+		require_once 'view/footer.php';
     }
 	public function Novo()
 	{
