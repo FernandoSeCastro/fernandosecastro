@@ -90,11 +90,6 @@
 		</a>
 	</div>
 
-	<div style="position:fixed; bottom:100px;left:20px;">
-		<h3 style= " color:red; background:#fff;border: solid 2px red; font-size:12px;" id="debugger">00</h3>
-		<button class="btn btn-danger" id="toggleinfoon">Informações</button>
-	</div>
-
 	<div class="progress">
 	  <div class="progress-bar progress-bar-custom" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;" id="pgbar">
 	  </div>
