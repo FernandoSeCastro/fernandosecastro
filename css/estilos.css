@@ -25,13 +25,13 @@ body{font-family: 'Open sans', sans-serif; padding-top: 50px; padding-bottom: 5p
     text-align: center;
 }
 .header .container h1{
-    color: #000000;
+    color: black;
     font-size: 80px;
     padding-top: 100px;
     font-weight: 600; 
 }
 .header .container h2{
-    color: #000000;
+    color: black;
     padding-top: 50px;
     font-size: 23px;
 }
@@ -41,7 +41,7 @@ body{font-family: 'Open sans', sans-serif; padding-top: 50px; padding-bottom: 5p
     color: #D52664;
 }
 .header .container h2 a:hover{
-    color: #000000;
+    color: black;
 }
 /*HEADER*/
 
