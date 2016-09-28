@@ -20,16 +20,18 @@ body{font-family: 'Open sans', sans-serif; padding-top: 50px; padding-bottom: 5p
     height:100vh;
     background: #fff url(../imgs/fundo.jpg) center no-repeat;
     background-attachment: fixed;
+
 }
 .header .container{
     text-align: center;
+    text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px
 }
 .header .container h1{
     color: #fff;
     font-size: 80px;
     padding-top: 100px;
     font-weight: 600; 
-    text-shadow:#000 -1px -1px 2px;
+
 }
 .header .container h2{
     color: #fff;
