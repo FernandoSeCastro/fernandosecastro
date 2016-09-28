@@ -18,7 +18,7 @@ body{font-family: 'Open sans', sans-serif; padding-top: 50px; padding-bottom: 5p
 /*HEADER*/
 .header{
     height:100vh;
-    background: #fff url(../imgs/headerbg.jpg) center no-repeat;
+    background: #fff url(../imgs/fundo.jpg) center no-repeat;
     background-attachment: fixed;
 }
 .header .container{

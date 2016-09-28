@@ -69,7 +69,6 @@
 
 	<div class="footer" id="footer">
 		<div class="container">
-			<h1>Rodapé</h1>
 			<div class="footercontact">
 				<span>Fernando Sé Castro</span>
 				<ul>
